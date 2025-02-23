@@ -17,4 +17,5 @@ A simple content-based recommendation system that suggests movies based on a sho
 
 ## Run
 **pip install -r requirements.txt**
+
 **python code.py**

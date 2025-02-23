@@ -14,3 +14,7 @@ A simple content-based recommendation system that suggests movies based on a sho
 
 - **Python:** 3.7+
 - **Dependencies:** Listed in `requirements.txt` (e.g., pandas, scikit-learn).
+
+## Run
+**pip install -r requirements.txt**
+**python code.py**
